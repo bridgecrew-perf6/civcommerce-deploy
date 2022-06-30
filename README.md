@@ -1,5 +1,10 @@
 # civcommerce-deploy
 
+### For single step deploy
+```
+take a look at deploy.sh
+```
+
 ### For local kind
 kind create cluster
 kind load docker-image <img>
